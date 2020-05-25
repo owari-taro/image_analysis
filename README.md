@@ -12,3 +12,6 @@ pip install -r requirements.lock
 python -m vevn vevn
 venv\Scripts\activate
 ```
+
+## reference  
+https://qiita.com/best_not_best/items/c9497ffb5240622ede01
