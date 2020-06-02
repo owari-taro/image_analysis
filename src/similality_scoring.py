@@ -1,4 +1,3 @@
-
 import cv2
 import os
 IMG_SIZE = (200, 200)
@@ -24,3 +23,4 @@ if __name__ == "__main__":
     img2 = "img2_1.png"
     compare(img1, img11)
     compare(img1, img2)
+\
